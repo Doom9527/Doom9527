@@ -1,3 +1,3 @@
-## Hi there, I'm Doom9527👋
+## Привет!👋
 
 ![](https://github-readme-stats.vercel.app/api?username=Doom9527&show_icons=true&theme=transparent)
